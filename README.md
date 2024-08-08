@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently working on an Innovative AI App using openai
+- 🔭 I’m currently working as a python django developer
 
 - 🌱 I’m currently learning **Advanced Django, AI Integration**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anzilachu55@gmail.com**
 
-- ⚡ Fun fact **I once coded an entire web app during a 24-hour hackathon while surviving on nothing but pizza and energy drinks! 🍕⚡**
+Fun fact **I once coded an entire web app during a 24-hour hackathon while surviving on nothing but pizza and energy drinks! 🍕⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
