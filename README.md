@@ -3,9 +3,9 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently working as a python django developer
+- 🔭 I’m Currently Working as a Python Django Developer at Tegain
 
-- 🌱 I’m currently learning **Advanced Django, AI Integration**
+- 🌱 Learning **Advanced Django, AI Integration, REST API**
 
 - 💬 Ask me about **Python,Django, RestAPI,MySQL, PostgresQL**
 
